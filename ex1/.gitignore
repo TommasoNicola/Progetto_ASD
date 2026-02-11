@@ -1,0 +1,7 @@
+*.csv
+*.docx
+*.pdf
+
+#PER IMPLEMENTAZIONE PROGETTO
+lib/unity/unity*
+bin/

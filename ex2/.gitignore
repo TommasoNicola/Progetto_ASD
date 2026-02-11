@@ -1,0 +1,7 @@
+*.docx
+*.pdf
+*.txt
+
+#PER IMPLEMENTAZIONE PROGETTO
+lib/unity/unity*
+bin/
